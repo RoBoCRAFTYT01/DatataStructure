@@ -40,9 +40,29 @@ let f be a function that describes the running time of a particular algorithm fo
 - Ignore const and the small value like log( n )
 - Big O expressions will define time, complexity and space.
 
+---
+
 # The goal of all time
 
 - Finding all subsets of a set - O( 2^n )
 - Finding all permutations of a string - O( n! )
 - Sorting using mergesort - O( n*log( n ) )
 - Iterating over all the cells in a matrix of size n by m - O( nm )
+
+# Time Complexity
+
+1. Arithmetic operations are constant
+2. Variable assignment is constant
+3. Accessing elements in an array (by index) or object (by key) is constant
+4. In a loop, the complexity is the length of the loop times the complexity of whatever happens inside the loop
+
+# Space Complexity
+
+- Most primitives (boolean, numbers, undefined, null) are constant space.
+- Strings require O(n) space (where n is the string length).
+- Reference types are generally O(n), where n is the length (for arrays) or the number of keys (for objects).
+
+**Note :**
+
+- Time Complexity Defined by the operations executed in the code.
+- Space Complexity Defined by the types of variables used.
