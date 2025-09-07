@@ -5,17 +5,25 @@
 
 [Youtube Video](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 
+[Udemy Course](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
+    - [Slides](https://cs.slides.com/colt_steele)
+
+[LeetCode](https://leetcode.com/u/RoBoCRR/)
+
 ## Programe
 
-- [**Introduction to Big-O**](/BigONotation/summary.md)
-- [**Dynamic and Static Arrays**](/Static&DynamicArray/summary.md)
-    - [Dynamic Array Code](/Static&DynamicArray/source.java)
-- [**Linked Lists Introduction**](/LinkedList/summary.md)
+- [**Introduction to Big-O**](/Courses/BigONotation/)
+- [**Problem Solving**](/Courses/ProblemSolving/)
+    - [**Approach**](/Courses/ProblemSolving/Approach/)
+    - [**Patterns**](/Courses/ProblemSolving/Patterns/)
+- [**Dynamic and Static Arrays**](/Courses/Static&DynamicArray/)
+    - [Dynamic Array Code](/Courses/Static&DynamicArray/source.java)
+- [**Linked Lists Introduction**](/Courses/LinkedList/)
 
-[**Doubly Linked List Code**](/LinkedList/source.java)
+[**Doubly Linked List Code**](/Courses/LinkedList/source.java)
 
-- [**Stack Introduction**](/Stack/summary.md)
-    - [Stack Implementation](/Stack/problem.ts)
+- [**Stack Introduction**](/Courses/Stack/)
+    - [Stack Implementation](/Courses/Stack/problem.ts)
     - Stack Code
 - **Queue Introduction**
     - Queue Implementation
