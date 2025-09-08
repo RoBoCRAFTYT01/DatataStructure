@@ -10,6 +10,12 @@
 
 [LeetCode](https://leetcode.com/u/RoBoCRR/)
 
+## Exercice
+- [**LeetCode**](/Exercice/)
+
+## Courses
+- [**Courses**](/Courses/)
+
 ## Programe
 
 - [**Introduction to Big-O**](/Courses/BigONotation/)
