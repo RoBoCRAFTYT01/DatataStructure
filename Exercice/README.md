@@ -8,6 +8,11 @@ If this part feels unclear, review [**Big O Notation**](/Courses/BigONotation/).
     - [**Solution**](/Exercice/Easy/Max69Num.ts)
 - [**Two Sum**](https://leetcode.com/problems/two-sum/)
     - [**Solution**](/Exercice/Easy/TwoSum.ts)
+- [**Is Palindrome**](https://leetcode.com/problems/palindrome-number/)
+    - [**Solution**](/Exercice/Easy/Palindrome.ts)
+- [**Roman To Integer**](https://leetcode.com/problems/roman-to-integer/)
+    - [**Solution**](/Exercice/Easy/RomanToInt.ts)
+
 
 ## Mediem Level
 

@@ -16,6 +16,10 @@ function twoSum(nums: number[], target: number): number[] {
     return [];
 };
 
+twoSum([0,3,5,8,7,6], 13); // [5 , 8] because 5 + 8 = 13
+twoSum([4,8,9,2,5,7], 10); // [8 , 2] because 8 + 2 = 10
+twoSum([3,3], 5); // [] because 3 + 3 = 6 
+
 /**
  * Time Complexity: O(n²)
  *   - Two nested loops: for each element i, we check all j > i.
