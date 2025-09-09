@@ -3,7 +3,7 @@
 [![Made with TypeScript](https://img.shields.io/badge/Made%20with-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue?style=for-the-badge)](LICENSE)  
 
-Welcome to the Data Structure Learning Repository 🚀
+Welcome to the Data Structure Learning Repository 🚀 <br />
 This repo contains implementations, notes, and exercises on data structures and algorithms to help strengthen your computer science foundation.
 
 ## 🔗 Resources
@@ -136,9 +136,9 @@ pnpm test
 ```
 
 # 🧑‍💻 Author
-**RoBo** – Full Stack Web Developer
-[🔗 GitHub Profile](https://github.com/RoBoCRAFTYT01/)
-[🔗 npm Profile](https://www.npmjs.com/~robo._.159)
+**RoBo** – Full Stack Web Developer <br />
+- [🔗 GitHub Profile](https://github.com/RoBoCRAFTYT01/) 
+- [🔗 npm Profile](https://www.npmjs.com/~robo._.159)
 
 # 🤝 Contributing
 **Contributions are welcome! 🎉**
@@ -153,6 +153,8 @@ If you’d like to improve code, add explanations, or suggest exercises:
 4. Push to your branch (`git push origin feature-xyz`)
 
 5. Open a Pull Request
+
+[Read more →](/CONTRIBUTING.md)
 
 # 📜 License
 This project is licensed under [**The Unlicense**](https://unlicense.org/) – free and open forever.
