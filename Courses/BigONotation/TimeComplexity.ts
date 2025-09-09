@@ -71,7 +71,7 @@ for (let i: number = 0; i < n; i++) {
  * we have sorted array and we want to find the index of a particular value in the array, if it exists. 
  */
 
-function FindValue(array: number[], value: number): number {
+export function FindValue(array: number[], value: number): number {
     let low: number = 0;
     let high: number = array.length - 1;
 
