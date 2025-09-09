@@ -1,0 +1,23 @@
+{
+  "name": "data-structure",
+  "version": "1.0.0",
+  "description": "Learning & practicing data structures and algorithms with TypeScript",
+  "type": "module",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "clean": "rm -rf dist"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/node": "^22.7.4",
+    "@types/bun": "latest",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "jest-environment-jsdom": "^29.7.0",
+    "typescript": "^5.6.3"
+  }
+}
