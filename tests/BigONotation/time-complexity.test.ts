@@ -20,11 +20,11 @@ describe("Big O Notation Benchmarks", () => {
         });
     });
 
-    // test("O(log n) binary search", () => {
-    //     const array = Array.from({ length: 1_000_000 }, (_, i) => i);
-    //     measureTime("O(log n)", () => {
-    //         const result = FindValue(array, 500_000);
-    //         expect(result).toBe(500_000);
-    //     });
-    // });
+    test("O(log n) binary search", () => {
+        const array = Array.from({ length: 1_000_000 }, (_, i) => i);
+        measureTime("O(log n)", () => {
+            const result = FindValue(array, 500_000);
+            expect(result).toBe(500_000);
+        });
+    });
 });
