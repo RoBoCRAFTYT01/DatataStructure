@@ -1,23 +1,26 @@
-# Data Structure
+# 📚 Data Structure Repository
 
-## Resources
-[Notion Document](https://www.notion.so/Data-Structure-2521bcd19f56804fb107cc70220d46c3?source=copy_link)
+[![Made with TypeScript](https://img.shields.io/badge/Made%20with-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue?style=for-the-badge)](LICENSE)  
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github)](CONTRIBUTING.md)  
+[![Build](https://img.shields.io/github/actions/workflow/status/RoBoCRAFTYT01/DatataStructure/ci.yml?style=for-the-badge)](../../actions)  
+[![Stars](https://img.shields.io/github/stars/RoBoCRAFTYT01/DatataStructure?style=for-the-badge&logo=github)](https://github.com/RoBoCRAFTYT01/DatataStructure/stargazers)  
+[![Forks](https://img.shields.io/github/forks/RoBoCRAFTYT01/DatataStructure?style=for-the-badge&logo=github)](https://github.com/RoBoCRAFTYT01/DatataStructure/network/members)  
 
-[Youtube Video](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+Welcome to the Data Structure Learning Repository 🚀
+This repo contains implementations, notes, and exercises on data structures and algorithms to help strengthen your computer science foundation.
 
-[Udemy Course](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
+## 🔗 Resources
+- [📓 Notion Document](https://www.notion.so/Data-Structure-2521bcd19f56804fb107cc70220d46c3?source=copy_link)
+- [🎥 YouTube Video (Free Course)](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+- [🎓 Udemy Course – JS Algorithms & Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
     - [Slides](https://cs.slides.com/colt_steele)
+- [🧩 LeetCode Profile](https://leetcode.com/u/RoBoCRR/)
 
-[LeetCode](https://leetcode.com/u/RoBoCRR/)
+## 📝 Exercises
+- [**LeetCode Solutions**](/Exercice/)
 
-## Exercice
-- [**LeetCode**](/Exercice/)
-
-## Courses
-- [**Courses**](/Courses/)
-
-## Programe
-
+## 📖 Courses
 - [**Introduction to Big-O**](/Courses/BigONotation/)
 - [**Problem Solving**](/Courses/ProblemSolving/)
     - [**Approach**](/Courses/ProblemSolving/Approach/)
@@ -79,3 +82,82 @@
 - **Indexed Priority Queue | Data Structure**
     - Indexed Priority Queue | Data Structure
     - Indexed Priority Queue | Data Structure | Source Code
+
+## 🛠️ Project Structure
+```bash
+📂 Courses
+ ┣ 📂 BigONotation
+ ┣ 📂 ProblemSolving
+ ┣ 📂 Static&DynamicArray
+ ┣ 📂 LinkedList
+ ┣ 📂 Stack
+ ┗ … (more coming)
+📂 Exercice
+ ┣ 📂 Easy
+ ┣ 📂 Medium
+ ┗ 📂 Hard
+```
+
+# 🚀 Getting Started
+
+## Clone the repo
+```bash
+git clone https://github.com/RoBoCRAFTYT01/data-structure.git
+cd data-structure
+```
+
+## Install dependencies (choose one)
+```bash
+# Using bun
+bun install
+
+# Using npm
+npm install
+
+# Using pnpm
+pnpm install
+```
+
+## Build
+```bash
+# Using bun
+bun run build
+
+# Using npm
+npm run build
+
+# Using pnpm
+pnpm run build
+```
+
+## Run tests
+```bash
+bun test
+# or
+npm test
+# or
+pnpm test
+```
+
+# 🧑‍💻 Author
+**RoBo** – Full Stack Web Developer
+[🔗 GitHub Profile](https://github.com/RoBoCRAFTYT01/)
+[🔗 npm Profile](https://www.npmjs.com/~robo._.159)
+
+# 🤝 Contributing
+**Contributions are welcome! 🎉**
+If you’d like to improve code, add explanations, or suggest exercises:
+
+1. Fork the repo
+
+2. Create a branch (`git checkout -b feature-xyz`)
+
+3. Commit your changes (`git commit -m "Added xyz"`)
+
+4. Push to your branch (`git push origin feature-xyz`)
+
+5. Open a Pull Request
+
+# 📜 License
+This project is licensed under [**The Unlicense**](https://unlicense.org/) – free and open forever.
+You are free to use, modify, and distribute this project without restriction.
