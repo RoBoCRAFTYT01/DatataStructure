@@ -2,10 +2,6 @@
 
 [![Made with TypeScript](https://img.shields.io/badge/Made%20with-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue?style=for-the-badge)](LICENSE)  
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github)](CONTRIBUTING.md)  
-[![Build](https://img.shields.io/github/actions/workflow/status/RoBoCRAFTYT01/DatataStructure/ci.yml?style=for-the-badge)](../../actions)  
-[![Stars](https://img.shields.io/github/stars/RoBoCRAFTYT01/DatataStructure?style=for-the-badge&logo=github)](https://github.com/RoBoCRAFTYT01/DatataStructure/stargazers)  
-[![Forks](https://img.shields.io/github/forks/RoBoCRAFTYT01/DatataStructure?style=for-the-badge&logo=github)](https://github.com/RoBoCRAFTYT01/DatataStructure/network/members)  
 
 Welcome to the Data Structure Learning Repository 🚀
 This repo contains implementations, notes, and exercises on data structures and algorithms to help strengthen your computer science foundation.
