@@ -8,6 +8,7 @@ This repo contains implementations, notes, and exercises on data structures and 
 
 ## 🔗 Resources
 - [📓 Notion Document](https://www.notion.so/Data-Structure-2521bcd19f56804fb107cc70220d46c3?source=copy_link)
+- [📓 W3School Data Structures and Algorithms Document](https://www.w3schools.com/dsa/index.php)
 - [🎥 YouTube Video (Free Course)](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 - [🎓 Udemy Course – JS Algorithms & Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
     - [Slides](https://cs.slides.com/colt_steele)
