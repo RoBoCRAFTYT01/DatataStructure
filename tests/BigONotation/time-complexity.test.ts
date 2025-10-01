@@ -1,5 +1,5 @@
 import { performance } from "perf_hooks";
-import { FindValue } from "../../Courses/BigONotation/TimeComplexity.js";
+import { FindValue } from "../../Courses/BigONotation/ts/TimeComplexity.js";
 
 jest.setTimeout(10000);
 
